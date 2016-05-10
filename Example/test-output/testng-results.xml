@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17929" started-at="2016-05-10T04:57:45Z" finished-at="2016-05-10T04:58:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17929" started-at="2016-05-10T04:57:45Z" finished-at="2016-05-10T04:58:03Z">
+      <class name="Wolfram.WolframLogin">
+        <test-method status="PASS" signature="loginToWolfram()[pri:0, instance:Wolfram.WolframLogin@5056dfcb]" name="loginToWolfram" duration-ms="17906" started-at="2016-05-10T00:57:45Z" finished-at="2016-05-10T00:58:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWolfram -->
+      </class> <!-- Wolfram.WolframLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
